@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cex-staking",
+  "private_key_id": "94f8c3fa0cdf1a148eb12553ab01f61732baf6f3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNJ9X4VglH/fRs\n5jS88pVfXK0Y3s2Xepzdzj9uoImmSnxki5I6cy2nMaCDpVsfUxpe9YB0DOGt+zMK\nc0oIbFDx8QfoVpgWMazoE1/ZUsm8O+2j/OMJH1onELv8eaN+0AQqY7x8UkUgUEhA\ndplHGcEgI1qDqzUUBWUE1jiOOSzuJzOB2ysVu4CGcgglMCX8aacF3quEObd2kBlR\nt/PzUZiprjTIvaX67y2VDUVK4GWTpXI+DWKsWLV9CCabaBvkDU9yj5F7q1injtLu\n9mXd51C64c3CaCq40yt5vuOqv6gUGYGsC53oZjBwIx9LiCIBCo3FUCChukbbjtcl\n7Hf5waPFAgMBAAECggEAB59FxPeJWiPjNQXE8T1mc4fePh2bcAsHRGEzArmAAIe+\n7f6WtolsXLLGBTroOXzQbrVaihunNnWuFHxqqtWly9j9LR9egJPK5uDYmRq8a288\nkCQUP7s3xPP+gzRcimWD6hrd62G96lchQBSuWcs13V62FuZ0m+OEnwF7uDw2lG7n\n+6VssJlEgMr/DqRH+xKdR1YY28evLCfJnoWzsSLe63pfL2CvTBAJzbMWdsWIqcJ7\nZQ5h7QwDCpN1SF+W/m2RC8qIXc1BWLZdjMF/l7cMFbTftBXIlCANbhOUbXSxrStS\nGRlwob6TYw6+MMCebqOiGU9PWY7dGaXeFea5ovtVAQKBgQDtNPD0TkLhETKJKK/H\nvMnOpftLLP80gK3KkbgVni/aCDVOT3Q6rrLvq9Tmb/kZnd6sn8rTiAcTo/b1VVCd\nNEc8lib51c/bEtObJ0Ue0BKUJ+yveRtrgQmu+uXExcPqbbxu12fJ/47W2h3SKLJS\n8Wp1fn1box3ftneEn/B+4vE2gQKBgQDdaNQD/sSC2qn8HglOyaD2/EBsf0ABN143\nFRs2nNxZCp8XGETRFlPT6unxCv5nAI8QcNUUv3TKodPsKdVooHhGQbtp841LZEBD\nYpDediewutni9h27rzMEj9D7ixv7sg4hCFpthHnTmv2W9CyPRJDd67BfZz4eprKm\nP3TrZkJzRQKBgQCMZsSkZlpRq4M1Ch8ZY5Yzua0HLygTZIL5nszOBuad8DPVGVRb\nk6IYGKYYi3hvADGYDbDZCe/eYTPAvPHNSu9LXjjNsg+oxPj5IgJYnaIRjZwbtNxV\nAni/2IP9t20iKjfZh6hIOPrMEyiJh0sdqwVvbCI5BlCdZPxTRPPtttg9gQKBgAQk\nU+MHPxHbmVZ4EWCB8RrtuR7OepoLOR36rRmmcZDQ3A0IjTEEI+lQ+bNiq0OuBP8f\nvTy4IC0yPc6rMazVY6qczC69OaVxaKpaC6+9shxiQnU2eXPrYR7yucwa3BknSZBg\noaBu3ACTY68RPkwn0jX0lMYUHltgbvMhOMS2kwOpAoGAVXdezuIuCLQ7gDT51uOv\nEqnJ5biX5GMMEghZXp4pVOp83Gr1pSUIZ3zJ0LqhpGvdnuIhx+b0Nb2CO1DH0G5p\n7lVYW3yBcy8VOvLTC7O6dileCXLCtsb+K1KvTzn4lOsO2wlITbL7cWOmi0yBbOWy\nXviCyMNe3+dN2hT0faVeYeA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4fxgt@cex-staking.iam.gserviceaccount.com",
+  "client_id": "110254044919992069210",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4fxgt%40cex-staking.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

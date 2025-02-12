@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.672" height="66.672" viewBox="0 0 66.672 66.672">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1908" data-name="Rectangle 1908" width="65.055" height="65.055" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_1909" data-name="Rectangle 1909" width="47.981" height="13.665" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_1910" data-name="Rectangle 1910" width="64.917" height="17.127" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_1911" data-name="Rectangle 1911" width="56.831" height="20.692" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <rect id="Rectangle_1912" data-name="Rectangle 1912" width="66.672" height="66.672" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="ethereum" transform="translate(-403.398)">
+    <g id="Group_6546" data-name="Group 6546" transform="translate(404.207 0.809)" opacity="0.22" style="mix-blend-mode: overlay;isolation: isolate">
+      <g id="Group_6545" data-name="Group 6545">
+        <g id="Group_6544" data-name="Group 6544" clip-path="url(#clip-path)">
+          <path id="Path_8922" data-name="Path 8922" d="M327.768,136.668a32.52,32.52,0,1,1-39.73-23.166,32.52,32.52,0,0,1,39.73,23.166" transform="translate(-263.792 -112.422)" fill="#cdf8f4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_6549" data-name="Group 6549" transform="translate(415.212 0.811)" opacity="0.17" style="mix-blend-mode: overlay;isolation: isolate">
+      <g id="Group_6548" data-name="Group 6548">
+        <g id="Group_6547" data-name="Group 6547" clip-path="url(#clip-path-2)">
+          <path id="Path_8923" data-name="Path 8923" d="M316.564,126.089a32.423,32.423,0,0,0-47.981-5.483l47.981,5.483" transform="translate(-268.583 -112.423)" fill="#cdf8f4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_6552" data-name="Group 6552" transform="translate(404.308 21.765)" opacity="0.17" style="mix-blend-mode: overlay;isolation: isolate">
+      <g id="Group_6551" data-name="Group 6551">
+        <g id="Group_6550" data-name="Group 6550" clip-path="url(#clip-path-3)">
+          <path id="Path_8924" data-name="Path 8924" d="M328.259,138.672a32.3,32.3,0,0,0,.2-9.978L265.9,121.545a32.552,32.552,0,0,0-2.065,9.367c21.48,2.527,42.939,5.242,64.423,7.759" transform="translate(-263.836 -121.545)" fill="#cdf8f4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_6555" data-name="Group 6555" transform="translate(406.46 45.17)" opacity="0.17" style="mix-blend-mode: overlay;isolation: isolate">
+      <g id="Group_6554" data-name="Group 6554">
+        <g id="Group_6553" data-name="Group 6553" clip-path="url(#clip-path-4)">
+          <path id="Path_8925" data-name="Path 8925" d="M264.773,131.734A32.461,32.461,0,0,0,321.6,138.6c-18.948-2.251-37.881-4.629-56.831-6.871" transform="translate(-264.773 -131.734)" fill="#cdf8f4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_6558" data-name="Group 6558" transform="translate(403.398)" style="mix-blend-mode: overlay;isolation: isolate">
+      <g id="Group_6557" data-name="Group 6557">
+        <g id="Group_6556" data-name="Group 6556" clip-path="url(#clip-path-5)">
+          <path id="Path_8926" data-name="Path 8926" d="M296.782,178.741a33.345,33.345,0,1,1,8.483-1.1,33.391,33.391,0,0,1-8.483,1.1m-.011-65.046a31.708,31.708,0,1,0,30.668,23.634A31.655,31.655,0,0,0,296.771,113.7" transform="translate(-263.44 -112.069)" fill="#cdf8f4"/>
+        </g>
+      </g>
+    </g>
+    <g id="Ethereum-2" data-name="Ethereum" transform="translate(432.392 11.71) rotate(20)">
+      <path id="Combined_Shape" data-name="Combined Shape" d="M11.769,13.766V0l11.18,18.83ZM11.769,0V13.76L0,18.83Z" fill="#57c7f3"/>
+      <path id="Combined_Shape-2" data-name="Combined Shape" d="M11.769,0l11.18,5.15-11.18,6.618ZM0,5.149,11.769,0V11.769Z" transform="translate(0 14.122)" fill="#3eb6e5"/>
+      <path id="Combined_Shape-3" data-name="Combined Shape" d="M11.769,6.793,22.949,0,11.769,15.887ZM0,0,11.769,6.793v9.094Z" transform="translate(0 21.772)" fill="#57c7f3"/>
+      <path id="Path_3" data-name="Path 3" d="M11.18,18.83,0,13.766V0Z" transform="translate(11.768)" fill="#57c7f3"/>
+      <path id="Path_5" data-name="Path 5" d="M11.18,5.15,0,0V11.768Z" transform="translate(11.768 14.122)" fill="#57c7f3"/>
+      <path id="Path_7" data-name="Path 7" d="M11.18,0,0,6.793v9.095Z" transform="translate(11.768 21.772)" fill="#57c7f3"/>
+    </g>
+  </g>
+</svg>
